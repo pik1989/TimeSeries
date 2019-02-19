@@ -2,7 +2,7 @@
 """
 Created on Sun Feb 17 13:58:12 2019
 
-@author: 611840750
+@author: Satyajit Pattnaik
 """
  
 from fbprophet import Prophet
@@ -20,7 +20,7 @@ from statsmodels.tsa.stattools import adfuller
 from datetime import datetime, timedelta
 
 #Reading the file
-df = pd.read_csv('C:/Python/Prophet/sheet2.csv')
+df = pd.read_csv('sheet2.csv')
 #Reading the holidays list
 
 #Formatting the date
@@ -100,7 +100,7 @@ for x in customers:
     pyplot.plot(ult_df['yhat'], color='magenta')
     pyplot.show()
     
-    text = "C:/Python/Raman_Prophet_Task/"
+    text = ""
     final_text = text + str(x) + "_final.csv"
     ult_df.to_csv(final_text)
     

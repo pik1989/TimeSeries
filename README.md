@@ -22,4 +22,4 @@ Note: The data is confidential, hence have used a snippet of it.
 But this solution will definitely clear the concept of "How to use FB Prophet"
 
 
-![Test Image 7](https://github.com/pik1989/TimeSeries/blob/master/Image.png)
+![Test Image 7](https://github.com/pik1989/Time-Series-Forecasting-using-LSTM-ARIMA-fbProphet/blob/master/Component-of-Time-Series-Data.jpg)

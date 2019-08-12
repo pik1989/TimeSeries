@@ -22,4 +22,4 @@ Note: The data is confidential, hence have used a snippet of it.
 But this solution will definitely clear the concept of "How to use FB Prophet"
 
 
-![Test Image 7](https://github.com/tograh/testrepository/master/3DTest.png)
+![Test Image 7](https://miro.medium.com/max/1326/1*olcxbeVPXeZyE69BxofgZQ.png)
